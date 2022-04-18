@@ -54,3 +54,9 @@ CREATE TABLE songs (
 2022-04-18 17:59:04,063 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
 2022-04-18 17:59:04,065 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
 2022-04-18 17:59:04,071 [INFO] sqlalchemy.engine.Engine: COMMIT
+2022-04-18 18:13:51,504 [INFO] sqlalchemy.engine.Engine: BEGIN (implicit)
+2022-04-18 18:13:51,505 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("songs")
+2022-04-18 18:13:51,508 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 18:13:51,514 [INFO] sqlalchemy.engine.Engine: PRAGMA main.table_info("users")
+2022-04-18 18:13:51,516 [INFO] sqlalchemy.engine.Engine: [raw sql] ()
+2022-04-18 18:13:51,521 [INFO] sqlalchemy.engine.Engine: COMMIT
